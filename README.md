@@ -1,9 +1,11 @@
 <p align="center">
   <a href="" rel="noopener">
- <img  src="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_39/assets/sig-blk-fr.svg"></a>
+ <img  src="https://cdn.icon-icons.com/icons2/1195/PNG/512/1490889698-amazon_82521.png"></a>
+  <a href="" rel="noopener">
+ <img  src="https://companieslogo.com/img/orig/GME.D-1747435e.png"></a>
 </p>
 
-<h3 align="center">guichet-emplois</h3>
+<h3 align="center">Amazon/gamestop</h3>
 
 <div align="center">
 

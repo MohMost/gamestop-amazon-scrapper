@@ -53,4 +53,4 @@
 
 ## ✍️ Author <a name = "author"></a>
 
-**_HHERMES_** and you can visite his <a href="https://hermes-dev-fr.web.app">website </a>.
+**_HERMES_** and you can visite his <a href="https://hermes-dev-fr.web.app">website </a>.

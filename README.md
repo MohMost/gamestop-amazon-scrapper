@@ -40,7 +40,7 @@
 
 ## 🧐 Requirement <a name = "requirement"></a>
 
-- you shoild install and run `MySql`.
+- you should install and run `MySql`.
 
  <!-----    -->
 

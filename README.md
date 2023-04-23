@@ -35,7 +35,7 @@
 
 - this bot is made with <a href="https://pptr.dev">Puppeteer</a> .
 - it aims to retrieve job offers currently available in one or more professions.
-- to select a job, you will need to insert a job title on the Musql `search` table, in a concrete case, you just have to enter `q; nintendo switch`.
+- to select a product, you will need to insert a product title on the Mysql `search` table, in a concrete case, you just have to enter `q; nintendo switch`.
 - then just run the script.
 
 ## 🧐 Requirement <a name = "requirement"></a>

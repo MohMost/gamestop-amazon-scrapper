@@ -34,8 +34,8 @@
 ## 💭 Description <a name = "description"></a>
 
 - this bot is made with <a href="https://pptr.dev">Puppeteer</a> .
-- it aims to retrieve job offers currently available in one or more professions.
-- to select a product, you will need to insert a product title on the Mysql `search` table, in a concrete case, you just have to enter `q; nintendo switch`.
+- it aims to retrieve products informations currently available in one or more category.
+- to select a product, you will need to insert a product title on the Mysql `search` table, in a concrete case, you just have to enter `q; nintendo switch` (or any other category).
 - then just run the script.
 
 ## 🧐 Requirement <a name = "requirement"></a>

@@ -19,7 +19,7 @@
 
 ---
 
-<p align="center"> 🤖  Scrapper of  <a href="https://www.guichetemplois.gc.ca" > Amazon </a><span>/</span><a href="https://www.guichetemplois.gc.ca" > GameStop </a>
+<p align="center"> 🤖  Scrapper for  <a href="https://www.guichetemplois.gc.ca" > Amazon </a><span>/</span><a href="https://www.guichetemplois.gc.ca" > GameStop </a>
     <br> 
 </p>
 

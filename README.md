@@ -13,14 +13,6 @@
     <br> 
 </p>
 
-## 📝 Table of Contents
-
-- [About](#about)
-- [Description](#description) .
-- [Requirement](#requirement) .
-- [Installation](#installation) .
-- [ Author ](#author) .
-
 ## 💭 Description <a name = "description"></a>
 
 - this bot is made with <a href="https://pptr.dev">Puppeteer</a> .
